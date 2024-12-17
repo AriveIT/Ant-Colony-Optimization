@@ -1,4 +1,4 @@
-# AntColonyOptimization
+# Ant  Colony Optimization
 
 Ant Colony Optimization is a randomized algorithm that gives approximate solutions to the travelling salesman problem that simulates ant foraging behaviour in finding the shortest path to food.
 
